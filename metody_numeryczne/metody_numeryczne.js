@@ -678,5 +678,253 @@ var test = {
                 {"text": "Fałsz", "valid": true}
             ]
         },
+        {
+       "question": "72. Awarie krytyczne nie są zaliczane do stanów obiektu lub procesu:",
+             "answer": [
+                {"text": "Prawda", "valid": false},
+                {"text": "Fałsz", "valid": true}
+        ]
+        },
+    {
+    "question": "73 Błędy w monitorowaniu obiektów i/lub błędy przepływu informacji.",
+                     "answer": [
+               
+                {"text": "zmian strukturalnych", "valid": true}
+        ]
+},
+    {
+    "question": "74 Czy do obszarów diagnostyki zaliczamy:",
+  "answer": [
+               
+                 {"text": "automatykę", "valid": true}
+                 {"text": "diagnostykę obiektów i procesów", "valid": true}
+                 {"text": "diagnostykę obiektów ", "valid": true}
+                 {"text": "diagnostykę techniczną", "valid": true}
+        ]
+    },
+        
+         {
+    "question": "74 Czy norma euklidesowa macierzy jest:",
+        "answer":
+              [
+               
+                 {"text": "jest normą drugą macierzy", "valid": true}
+                 {"text": "jest normą pierwsza macierzy", "valid": false}
+                 {"text": "jest normą osma macierzy ", "valid": false}
+                 {"text": "jest normą trzecia macierzy", "valid": false}
+        ]
+    },
+        {
+    "question": "75 Czy norma euklidesowa macierzy jest:",
+             "answer":
+              [
+               
+                 {"text": "Prawda", "valid": false}
+                 {"text": "Fałsz", "valid": true}
+              
+        ]
+    },
+        {
+         "question": "76 Diagnozowaniem nazywamy proces wykrywania bez rozróżniania stanów obiektu lub procesu w wyniku zbierania, przetwarzania, analizy oceny sygnałów diagnostycznych:
+:",
+        "answer":
+              [
+               
+                 {"text": "Fałsz", "valid": false}
+                 {"text": "Prawda", "valid": true}
+                
+        ]
+    },
+    {
+        "question": "77 Diagnozowaniem nazywamy proces wykrywania bez rozróżniania stanów obiektu lub procesu w bez zbierania, przetwarzania, analizy oraz oceny sygnałów diagnostycznych:
+",
+        "answer":
+              [
+               
+                 {"text": "Fałsz", "valid": true}
+                 {"text": "Prawda", "valid": false}
+                
+        ]
+    },
+         {
+        "question": "78 Diagnostyka obiektów zajmuje się oceną stanu urządzeń poprzez badanie bezpośrednie ich własności:",
+        "answer":
+              [
+               
+                 {"text": "Fałsz", "valid": false}
+                 {"text": "Prawda", "valid": true}
+                
+        ]
+    },
+         {
+        "question": "79 Diagnostyka obiektów zajmuje się oceną stanu urządzeń poprzez badania bezpośrednie ich właściwości i badania pośrednie procesów towarzyszących funkcjonowaniu tych urządzeń tzw. procesów resztkowych, jednoznacznością oraz stabilnością monitorowanego obiektu lub procesu:",
+        "answer":
+              [
+               
+                 {"text": "Fałsz", "valid": true}
+                 {"text": "Prawda", "valid": false}
+                
+        ]
+    },
+          {
+    "question": "80 Diagnostyka procesów zajmuje się rozpoznawaniem zmian stanów procesów przemysłowych rozumianych jako ciąg celowych działań realizowanych w ustalonym czasie przez określony zbiór zdarzeń bez procesów technologicznych.:",
+             "answer":
+              [
+               
+                 {"text": "Prawda", "valid": true}
+                 {"text": "Fałsz", "valid": false}
+              
+        ]
+    },
+        {
+    "question": "81 Diagnostyka procesów zajmuje się rozpoznawaniem zmian stanów procesów przemysłowych rozumianych jako ciąg celowych działań realizowanych bez ustalonego przez określony zbiór zdarzeń, np. procesów technologicznych.:",
+             "answer":
+              [
+               
+                 {"text": "Prawda", "valid": false}
+                 {"text": "Fałsz", "valid": true}
+              
+        ]
+    },
+         {
+    "question": "82 Do skutków awaryjnych nie zaliczamy:",
+             "answer":
+              [
+               
+                 {"text": "zagrożenie życia", "valid": true}
+                 {"text": "uszkodzenia i zdarzenia destrukcyjne", "valid": false}
+              
+        ]
+    },
+          {
+    "question": "83 Jako przyczyny zmiany stanów rozpatrywane są:",
+             "answer":
+              [
+               
+                 {"text": "uszkodzenia i zdarzenia destrukcyjne", "valid": true}
+                 {"text": "zagrożenie życia", "valid": false}
+              
+        ]
+    },
+        {
+    "question": "84 Odporność na szumy i niepewności pomiarowe zaliczamy do grupy cech systemow diagnostycznych:",
+             "answer":
+              [
+               
+                 {"text": "krzepkość", "valid": true}
+                 {"text": "szybka detekcja i diagnoza", "valid": true}
+              
+        ]
+    },
+         {
+    "question": "85 Procesy resztkowe mogą mieć charakter mechaniczny, akustyczny, elektryczny, termiczny.:",
+             "answer":
+              [
+               
+                 {"text": "Fałsz", "valid": true}
+                 {"text": "Prawda", "valid": false}
+              
+        ]
+    },
+        {
+         "question": "86 Przez stan obiektu lub procesu nie określamy jego przynależności do zdefiniowanych stanów(normalnego, zakłóceniowego, awaryjnego).:",
+             "answer":
+              [
+               
+                 {"text": "Fałsz", "valid": true}
+                 {"text": "Prawda", "valid": false}
+              
+        ]
+    },
+         {
+    "question": "87 Stany anormalne mogą być powodowane przez.:",
+             "answer":
+              [
+               
+                 {"text": "maskowanie uszkodzeń przez system pomiarowy", "valid": true}
+                 {"text": "oszczędności", "valid": true}
+                  {"text": "sprzętową złożoność systemu", "valid": true}
+              
+        ]
+    },
+           {
+    "question": "88 Sygnałem diagnostycznym określamy parametryczną zmienną wyjściową której parametry nie są skorelowane z czułością jednoznacznością oraz stabilnością monitorowanego obiektu lub procesu:",
+             "answer":
+              [
+               
+                 {"text": "Prawda", "valid": false}
+                 {"text": "Fałsz", "valid": true}
+                  
+              
+        ]
+    },
+         {
+    "question": "89 Sygnałem diagnostycznym określamy parametryczna zmienną wyjściową której parametry są skorelowane z czułością jednoznacznością oraz stabilnością monitorowanego obiektu lub procesu:",
+             "answer":
+              [
+               
+                 {"text": "Prawda", "valid": true}
+                 {"text": "Fałsz", "valid": false}
+                  
+              
+        ]
+    },
+          {
+    "question": "90 Sygnałem diagnostycznym określamy nieparametryczna zmienną wyjściową:",
+             "answer":
+              [
+               
+                 {"text": "Prawda", "valid": false}
+                 {"text": "Fałsz", "valid": true}
+                  
+              
+        ]
+    },
+        {
+    "question": "91 W arytmetyce zmiennopozycyjnej IEEE-754 dla skończonej reprezentacji słowa maszynowego, ZERO określane jest przez:",
+             "answer":
+              [
+               
+                 {"text": "iloczyn zerowej wartości mantysy oraz niezerowej wartości cechy", "valid": true}
+                 {"text": "iloczyn niezerowej wartości mantysy oraz niezerowej wartości cechy", "valid": false}
+                  
+              
+        ]
+    },
+         {
+    "question": "92 W wyniku konwersji liczby rzeczywistej z układu dziesiętnego, otrzymano liczbę:1211020101.200100121; Na jaki z podanych układów pozycyjnych konwersja mogła być wykonana?:",
+             "answer":
+              [
+               
+                 {"text": "układ pozycyjny o podstawie trzy (3)", "valid": true}
+                 {"text": "układ pozycyjny o podstawie trzy (2)", "valid": false}
+                  
+              
+        ]
+    },
+         {
+    "question": "93 W wyniku konwersji liczby rzeczywistej z układu dziesiętnego, otrzymano liczbę:2510246.223541; Na jaki z podanych układów pozycyjnych konwersja mogła być wykonana?:",
+             "answer":
+              [
+               
+                 {"text": "układ pozycyjny o podstawie trzy (7)", "valid": true}
+                 {"text": "układ pozycyjny o podstawie trzy (8)", "valid": true}
+                   {"text": "układ pozycyjny o podstawie trzy (9)", "valid": true}
+                  
+              
+        ]
+    },
+        {
+    "question": "94 W wyniku konwersji liczby rzeczywistej z układu dziesiętnego, otrzymano liczbę:2510246.223541; Na jaki z podanych układów pozycyjnych konwersja mogła być wykonana?:",
+             "answer":
+              [
+               
+                 {"text": "Ze względu na reprezentację typów wartości stało i zmiennopozycyjnych, obliczeniazmiennopozycyjne podlegają całkowicie innym rodzajom błędów w obliczeniach numerycznych.", "valid": true}
+                 {"text": "Liczby zmiennopozycyjne to zbiory wartości, które nie mogą być wyrażane w sposób skończony i przeliczalny poprzez skończoną liczbę binarną.", "valid": true}
+                   {"text": "Liczby z zakresu stałopozycyjnych zawsze są zbiorami skończonymi i przeliczalnymi.", "valid": true}
+                  
+              
+        ]
+    },
     ]
 }
